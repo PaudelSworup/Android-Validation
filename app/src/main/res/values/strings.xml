@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Validation</string>
+    <string name="txt_name">Registration</string>
+    <string name="hint_name">Enter your Name</string>
+    <string name="hint_email">Enter your Email</string>
+    <string name="txt_btn">Submit</string>
+    <string name="home_name">Name</string>
+    <string name="home_mail">Email</string>
+</resources>
